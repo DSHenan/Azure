@@ -1,0 +1,31 @@
+Name	Type	Description	Office Communications Server Address	
+LAS-D2NHW52	Computer	Abousaleh, Sabrina	 	
+LAS-L021G3B182	Computer	Derby, Shane	 	
+LAS-L721GDG182	Computer	Van Steyn, Peter M.	 	
+LAS-L721GHB182	Computer	VanOrden, Barry C.	 	
+LAS-L721QKF182	Computer	Lucero, Daniel R.	 	
+LAS-L721QLB182	Computer	Stace, Christina M.	 	
+LAS-L721QM9182	Computer	Stace, Christina M.	 	
+LAS-L721QMJ182	Computer	Martin, Thomas	 	
+LAS-L721QV8182	Computer	Brady, Roy A.	 	
+LAS-L721RGD182	Computer	Hepburn, Judith A.	 	
+LAS-WDKB4VV1	Computer	Scanning Station  - Dell Optiplex 390 - WIN 7	 	
+LAS-WH6RMN22	Computer	FITS RDP Machine for MSRA	 	
+LAS-WJH6NX12	Computer	Derby, Shane H.	 	
+LAS-WMXL20114W9	Computer	JAHepbur - HP 8560p Laptop - WIN 7	 	
+SFOPW08FP01-LAS-PB69424	Printer	HP LaserJet 4250	 	
+SFOPW08FP01-LAS-PE33464	Printer	HP OfficeJet Pro x576dw	 	
+504Legal_LasVegas	Security Group - Global		 	
+LAS-PC's	Security Group - Global		 	
+LASEVERYONE	Security Group - Global		 	
+LASSACS	Security Group - Global		 	
+NAP Clients	Security Group - Global		 	
+NAP_Policy	Security Group - Global		 	
+Nevada District Office	Security Group - Universal		 	
+Abousaleh, Sabrina	User	LAS-D2NHW52	SAAbousa@sba.gov	
+Brady, Roy A.	User	LAS-L721QV8182	RABrady@sba.gov	
+Derby, Shane H.	User	LAS-L021G3B182	 	
+Lucero, Daniel R.	User	LAS-L721QKF	drlucero@sba.gov	
+Martin, Thomas	User	LAS-L721QMJ182	tmartin@sba.gov	
+Stace, Christina M.	User	LAS-L721QLB182	CMStace@sba.gov	
+VanOrden, Barry C.	User	LAS-L721GHB182	bcvanord@sba.gov	
